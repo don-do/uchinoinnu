@@ -9,5 +9,5 @@
   <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
   <!-- フォントアイコン -->
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="shortcut icon" href="img/uchinoinnu-logo.png" type="image/png">
+  <link rel="icon" href="img/innu-icon.png" type="image/png">
   </head>
