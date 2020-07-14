@@ -657,6 +657,9 @@ label.err input, label.err select{
 
 input[type="text"], input[type="password"], input[type="number"], .form select,
 textarea {
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
   display: block;
   box-sizing: border-box;
   margin-bottom: 15px;
